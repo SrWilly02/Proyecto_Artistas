@@ -1,0 +1,13 @@
+span {
+    margin: auto;
+    text-align: center;
+  }
+  
+  .espacio {
+    flex: 1 1 auto;
+  }
+  
+  button {
+    margin: 0px 2px;
+  }
+  

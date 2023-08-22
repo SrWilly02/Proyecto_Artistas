@@ -1,0 +1,28 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Jorge",
+      "photo": "http://media.gettyimages.com/photos/athlete-ready-to-run-picture-id158900021",
+      "favoritesports": "runner",
+      "points": 45,
+      "groupId": 3
+    },
+    {
+      "id": 2,
+      "name": "Juana",
+      "photo": "https://i.pinimg.com/originals/f9/ef/99/f9ef99d5d360dff5dc690a4c03bc0311.png",
+      "favoritesports": "soccer",
+      "points": 100,
+      "groupId": 2
+    },
+    {
+      "id": 3,
+      "name": "Juana",
+      "photo": "https://i.pinimg.com/originals/83/5e/81/835e815dcfb019b133fb3139293b3dc5.jpg",
+      "favoritesports": "soccer",
+      "points": 70,
+      "groupId": 2
+    }
+  ]
+}

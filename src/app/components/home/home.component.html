@@ -1,0 +1,9 @@
+<div class="home">
+    <mat-card>
+        <mat-card-title>Current Artist Count</mat-card-title>
+        <br />
+        <mat-card-subtitle class="contador" *ngFor="let artist of artists; last as isLast">
+            <span *ngIf="isLast">{{artist.id}}</span>
+        </mat-card-subtitle>
+    </mat-card>
+</div>
